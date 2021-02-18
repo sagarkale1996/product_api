@@ -15,3 +15,7 @@ class Product(models.Model):
 
 def pankaj():
     pass
+
+def payal():
+    pass
+
