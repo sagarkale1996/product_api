@@ -12,3 +12,6 @@ class Product(models.Model):
     product_name = models.CharField(max_length=300)
     product_price = models.FloatField()
     category_id = models.TextField(null=True,default=False)
+
+def pankaj():
+    pass
